@@ -1,12 +1,13 @@
-<img src="Resources/Pointer.png" width="96" height="96" alt="Pointer app icon">
-
-# Pointer
-
+<div align="center">
+  <img src="Resources/Pointer.png" width="96" height="96" alt="Pointer app icon">
+  <h1>Pointer</h1>
 SwiftUI utility for replacing 19 macOS system cursors with animated GIF and Windows ANI designs.
 
 [Download v1 for macOS](https://github.com/Ajtn05/Pointer/releases/download/v1/Pointer-macOS.zip) · [All releases](https://github.com/Ajtn05/Pointer/releases)
 
 macOS 14 or later · Apple Silicon and Intel · Ad hoc signed
+
+</div>
 
 ## Usage
 
